@@ -18,3 +18,6 @@ Kalman Filters can be used to estimate the true state from noisy data.
 - Gaussian noise
 - Prediction and update steps
 - Kalman Gain
+
+## Author
+- Shankar Manik
