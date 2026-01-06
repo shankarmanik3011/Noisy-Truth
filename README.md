@@ -18,8 +18,3 @@ Kalman Filters can be used to estimate the true state from noisy data.
 - Gaussian noise
 - Prediction and update steps
 - Kalman Gain
-
-## Future Work
-- Extend to higher dimensions
-- Implement Unscented Kalman Filter (UKF)
-- Apply to real-world datasets
