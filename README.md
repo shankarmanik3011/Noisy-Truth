@@ -15,6 +15,7 @@ Kalman Filters can be used to estimate the true state from noisy data.
 - kalman_1d.py : 1D Kalman Filter implementation
 
 ## Concepts Used
+- Basics of Python
 - Gaussian noise
 - Prediction and update steps
 - Kalman Gain
