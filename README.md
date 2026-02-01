@@ -20,7 +20,6 @@ During WiDS, I learned:
 - Implementing filters using Python and NumPy
 - Using GitHub to manage projects
 
----
 
 ## Work done
 
@@ -30,7 +29,6 @@ I created a simple simulation to generate true position and noisy sensor measure
 File:
 simulate_data.py
 
----
 
 ### 2. 1D Kalman Filter
 I implemented a basic 1D Kalman Filter to estimate position from noisy measurements.  
