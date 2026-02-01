@@ -30,6 +30,7 @@ File:
 simulate_data.py
 
 
+
 ### 2. 1D Kalman Filter
 I implemented a basic 1D Kalman Filter to estimate position from noisy measurements.  
 The filter smooths the noisy data and gives better estimates.
@@ -38,12 +39,14 @@ File:
 kalman_1d.py
 
 
+
 ### 3. 2D Kalman Filter (final improvement)
 For the final submission, I extended the idea to 2D tracking.  
 This tracks motion in both x and y directions and is closer to real-world applications.
 
 File:
 kalman_2d.py
+
 
 
 ## How to run
