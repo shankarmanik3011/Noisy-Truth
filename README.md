@@ -37,7 +37,6 @@ The filter smooths the noisy data and gives better estimates.
 File:
 kalman_1d.py
 
----
 
 ### 3. 2D Kalman Filter (final improvement)
 For the final submission, I extended the idea to 2D tracking.  
@@ -46,7 +45,6 @@ This tracks motion in both x and y directions and is closer to real-world applic
 File:
 kalman_2d.py
 
----
 
 ## How to run
 
@@ -62,7 +60,6 @@ python kalman_2d.py
 
 Each file shows graphs comparing true values, noisy measurements, and filtered estimates.
 
----
 
 ## Files in this repository
 
@@ -71,7 +68,6 @@ Each file shows graphs comparing true values, noisy measurements, and filtered e
 - kalman_2d.py – 2D Kalman Filter
 - requirements.txt – required Python libraries
 
----
 
 ## Challenges faced
 
@@ -82,7 +78,6 @@ Each file shows graphs comparing true values, noisy measurements, and filtered e
 
 These helped me learn more practically.
 
----
 
 ## Future work
 
@@ -91,7 +86,6 @@ These helped me learn more practically.
 - Apply filtering to real datasets
 - Explore robotics and localization problems
 
----
 
 ## Conclusion
 
