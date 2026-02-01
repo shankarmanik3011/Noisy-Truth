@@ -6,7 +6,7 @@ In this project, I tried to understand how noise affects real world sensor data 
 
 In many systems, sensor measurements are noisy and not accurate. Kalman Filters help in reducing this noise and give a better estimate of the actual state. This project is my learning journey to understand these ideas step by step.
 
----
+
 
 ## What I learned
 
